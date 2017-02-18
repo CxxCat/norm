@@ -1,5 +1,4 @@
 #include "norm.h"
-#include <list>
 #include <stdint.h>
 
 std::string normalize(const std::string& path) {

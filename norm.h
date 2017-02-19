@@ -1,4 +1,5 @@
 #ifndef NORM_H
+#define NORM_H
 
 #include <string>
 
